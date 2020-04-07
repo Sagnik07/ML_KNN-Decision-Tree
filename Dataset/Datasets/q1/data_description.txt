@@ -1,0 +1,11 @@
+Dataset description:
+
+train.csv:
+Column 1: Prediction label
+Column 2-785: Pixel values. 28*28 image flattened into a 784 dimensional vector.
+
+test.csv:
+Column 1-784: Pixel values. 28*28 image flattened into a 784 dimensional vector.
+
+test_labels.csv:
+Column 1: Prediction label
